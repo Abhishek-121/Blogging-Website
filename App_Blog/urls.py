@@ -10,4 +10,6 @@ urlpatterns = [
     path('details/(?P<slug>[\w\-]+)/$', views.blog_details, name='blog_details'),
     path('liked/<pk>', views.liked, name='liked_post'),
     path('unliked/<pk>', views.unliked, name='unliked_post'),
+    path('my-blog/', views.MyBlogs.as_view(), name='my_blogs'),
+    path('edit-blog/<pk>/', views.UpdateBlog.as_view(), name='edit_blog'),
 ]
