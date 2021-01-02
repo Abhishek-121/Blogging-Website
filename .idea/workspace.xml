@@ -9,6 +9,8 @@
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/pip-20.3.3.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/pip-20.3.3.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools-51.1.0.post20201221.dist-info/RECORD" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/tests/test_build_meta.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/tests/test_build_meta.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/tests/test_virtualenv.py" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/setuptools/tests/test_virtualenv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.36.2.dist-info/RECORD" beforeDir="false" afterPath="$PROJECT_DIR$/env/Lib/site-packages/wheel-0.36.2.dist-info/RECORD" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/Scripts/easy_install-3.7.exe" beforeDir="false" afterPath="$PROJECT_DIR$/env/Scripts/easy_install-3.7.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/env/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/env/Scripts/easy_install.exe" afterDir="false" />
@@ -148,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="694" />
     <option name="height" value="735" />
@@ -274,15 +276,15 @@
       <workItem from="1608807953453" duration="14767000" />
       <workItem from="1608896830823" duration="13022000" />
       <workItem from="1608975709835" duration="6624000" />
-      <workItem from="1609601127670" duration="179000" />
+      <workItem from="1609601127670" duration="755000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86332000" />
+    <option name="totallyTimeSpent" value="86848000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14145234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
