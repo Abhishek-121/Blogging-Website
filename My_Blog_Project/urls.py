@@ -5,7 +5,7 @@ from django.contrib.staticfiles.urls import static, staticfiles_urlpatterns
 from django.conf import settings
 from . import views
 from django.views.static import serve
-from django.conf.urls.static import url
+from django.conf.urls import url
 
 
 urlpatterns = [
