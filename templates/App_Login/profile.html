@@ -8,9 +8,9 @@
 
     {% if user.user_profile %}
 
-        <img src="/media/{{ user.user_profile.profile_pic}}" class="rounded-circle" width="120px">
+        <img src="/media/{{ user.user_profile.profile}}" alt =" Image Not FOund"class="rounded-circle" width="150px" >
         <br><br>
-        <a hrf="{% url 'App_Login:change_pro_pic' %}" class="btn btn-info btn-sm">Change Profile</a>
+        <a href="{% url 'App_Login:change_pro_pic' %}" class="btn btn-info btn-sm">Change Profile</a>
 
     {% else %}
 

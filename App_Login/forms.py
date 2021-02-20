@@ -6,6 +6,8 @@ from App_Login.models import UserProfile
 
 class SignUpForm(UserCreationForm):
     email = forms.EmailField(label="Email Address", required=True)
+    # Any information that is “not a form Field” can be considered as metadata.
+    # The use of Meta class is simply to provide metadata to the ModelForm class.
 
     class Meta:
         model = User

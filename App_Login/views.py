@@ -93,22 +93,3 @@ def change_pro_pic(request):
             form.save()
             return HttpResponseRedirect(reverse('App_Login:profile'))
     return render(request, 'App_Login/pro_pic_add.html', context={'form': form})
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
